@@ -1,1 +1,6 @@
-# zadanie5
+
+# Moduł A
+
+Przykład prostego modułu.
+
+
